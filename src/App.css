@@ -1,0 +1,12 @@
+.col-20 {
+  flex-basis: 20%;
+}
+
+.col-60 {
+  flex-basis: 60%;
+}
+
+/* * {
+  background: #F5F5F5 0% 0% no-repeat padding-box;
+  opacity: 1;
+} */
